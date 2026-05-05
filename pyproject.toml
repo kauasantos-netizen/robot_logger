@@ -1,0 +1,10 @@
+[project]
+name = "robot-logger"
+version = "0.1.0"
+description = "Structured logging with N8N integration"
+authors = [{name="Kauã Francisco Persich Carvalho dos Santos"}]
+dependencies = ["requests"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
